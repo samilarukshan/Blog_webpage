@@ -1,6 +1,6 @@
 # 🌄 Kandy Travel Webpage
 
-# 🔗 Page Link: https://samilarukshan.github.io/Blog_webpage/
+## 🔗 Page Link: https://samilarukshan.github.io/Blog_webpage/
 
 ## 📖 Overview
 
